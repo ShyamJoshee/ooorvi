@@ -7,8 +7,10 @@ const App = () => {
         <div class="community">
           <h2 class="community-header">Join our community</h2>
           <p>30-day, hassle-free monkey back gurarantee</p>
-          <p>Gain access to our full library of tutorials along with experts code reviews. Perfect for any developers
-            who are serious about honing their skills.
+          <p>
+            Gain access to our full library of tutorials along with experts code
+            reviews. Perfect for any developers who are serious about honing
+            their skills.
           </p>
         </div>
         <div class="card-details">
